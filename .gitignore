@@ -83,12 +83,7 @@ migrate_working_dir/
 .cov
 
 # iOS related
-ios/Pods/
-ios/.symlinks/
-ios/Flutter/Flutter.framework
-ios/Flutter/Flutter.podspec
-ios/ServiceDefinitions.json
-ios/Runner/GeneratedPluginRegistrant.*
+ios/
 
 # Xcode related
 xcuserdata/
